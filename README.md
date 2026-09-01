@@ -1,4 +1,4 @@
-# Business Optimization AI
+# AI Financial Support
 
 ## Project Overview
 A full-stack AI-driven business optimization platform. This application leverages Machine Learning to provide explainable financial projections and risk assessments based on user capital and selected market indicators. 
