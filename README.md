@@ -11,11 +11,12 @@ A full-stack AI-driven business optimization platform. This application leverage
 * **Deployment:** Vercel (Frontend) & Render (Backend)
 
 ## Live Production Demo
-* **Frontend Dashboard (Vercel):** [Pending Vercel URL]
+* **Frontend Dashboard (Vercel):** [https://business-optimization-ai.vercel.app/](https://business-optimization-ai.vercel.app/)
 * **Backend API Docs (Render):** [https://business-optimization-ai.onrender.com/docs](https://business-optimization-ai.onrender.com/docs)
 > **Note:** The backend is hosted on a free-tier Render instance. It may enter a sleep state after a period of inactivity. Upon the first request, the server might take 1-2 minutes to spin up.
 
 ## Local Installation & Testing
+
 1. **Backend Setup:**
    * Navigate to the `backend` directory.
    * Activate your virtual environment: `source venv/bin/activate` (Mac/Linux) or `venv\Scripts\activate` (Windows).
